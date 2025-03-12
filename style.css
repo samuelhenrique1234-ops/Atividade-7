@@ -1,3 +1,18 @@
-.barra{
+#navbar{
+    color: rgb(0, 0, 0);
+    background-color: rgb(114, 114, 114);
+}
 
+#listrada{
+    background: repeating-linear-gradient(
+        90deg,
+        #f8df00,
+        #f8df00 10px,
+        #ffbb00 25px,
+        #ffbb00 5px
+        );
+        
+    padding: 16px;
+    box-sizing: border-box;
+        
 }
