@@ -5,19 +5,24 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+h1{
+    margin: 0px;
+}
+
 #navbar{
     color: rgb(0, 0, 0);
-    background-color: rgb(114, 114, 114);
+    background-color: rgb(163, 163, 163);
     margin: 0px;
+    padding: 0px;
 }
 
 #listrada{
     background: repeating-linear-gradient(
-        90deg,
+        135deg,
         #f8df00,
-        #f8df00 10px,
-        #ffa600 25px,
-        #ffa600 5px
+        #f8df00 15px,
+        #ffa600 10px,
+        #ffa600 30px
         );
         
     padding: 16px;
