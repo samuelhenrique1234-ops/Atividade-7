@@ -1,6 +1,14 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 #navbar{
     color: rgb(0, 0, 0);
     background-color: rgb(114, 114, 114);
+    margin: 0px;
 }
 
 #listrada{
@@ -8,8 +16,8 @@
         90deg,
         #f8df00,
         #f8df00 10px,
-        #ffbb00 25px,
-        #ffbb00 5px
+        #ffa600 25px,
+        #ffa600 5px
         );
         
     padding: 16px;
