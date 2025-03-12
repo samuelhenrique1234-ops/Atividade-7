@@ -24,6 +24,9 @@ h1{
         #ffa600 10px,
         #ffa600 30px
         );
+
+        width: auto;
+        height: 15px;
         
     padding: 16px;
     box-sizing: border-box;
